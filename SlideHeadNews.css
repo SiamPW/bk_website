@@ -1,0 +1,26 @@
+.glidecontentwrapper {
+	overflow:hidden; width:87%; float:left; position:relative; height:43px;}
+.glidecontent {
+	 background:url(images/bg_model.jpg) top repeat-x; padding:13px 5px; visibility:hidden; width:99%; color:#515151; position:absolute; top:0px; font-size:13px; font-weight:bold; text-transform:uppercase;
+}
+.glidecontenttoggler {
+	margin:0px; padding-left:10px; width:4%; height:43px; text-align:left; float:left; background:url(images/vmodel2.gif) left center no-repeat;
+}
+.glidecontenttoggler A {}
+.glidecontenttoggler A.selected {}
+.glidecontenttoggler A:hover {}
+.glidecontenttoggler A.toc {
+	
+}
+.glidecontenttoggler A.prev {color:#0D5BA9; text-decoration:none;}
+.glidecontenttoggler A.next {color:#0D5BA9; text-decoration:none;}
+
+UNKNOWN {
+	COLOR: #0d5ba9
+}
+.glidecontenttoggler A.news {
+	PADDING-RIGHT: 2px; DISPLAY: inline-block; PADDING-LEFT: 2px; FONT-WEIGHT: bold; PADDING-BOTTOM: 2px; WIDTH: 40px; COLOR: #0c2a5b; PADDING-TOP: 2px; TEXT-ALIGN: center
+}
+.glidecontenttoggler A.news:hover {
+	DISPLAY: inline-block; FONT-WEIGHT: bold; BACKGROUND: #ffffff; COLOR: #0d5ba9
+}

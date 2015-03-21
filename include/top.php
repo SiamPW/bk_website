@@ -1,0 +1,2 @@
+	<img src="../images/logo.jpg" width="280" height="48" hspace="15" align="left" />
+	<!--<div style="float:right; margin-top:25px;">Language : <a href="../en/index.php"><img src="../images/eng-flag.jpg" hspace="5" border="0" /></a> <a href="../th/index.php"><img src="../images/thai--flag.jpg" border="0" /></a>--></div>
