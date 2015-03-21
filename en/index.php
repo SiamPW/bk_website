@@ -7,21 +7,10 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>PW laser : distributor of laser machine from Taiwan manufacturer</title>
 <link href="../css.css" rel="stylesheet" type="text/css" />
-<script src="../Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 </head>
 
 <body>
-    <script>var FloatingAd_Timeout323=3000000;var FloatingAd_Layer323 = "FloatingLayer323";</script>
-<div id="FloatingLayer323" style="position:absolute; z-index:99999999; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.9);" onclick="closebar_th323(); return false">
-<div style="position:relative; width:800px; margin:auto; padding:30px; background:#023382; color:#fff;">
-<a class="closepop" href="#" onclick="closebar_th323(); return false"> </a>
-<p style=" font-size:17px; font-style:italic; line-height:26px; color:#fff;"> สวัสดีครับ,<br />
-บริษัท สยาม พี แอนด์ ดับบลิว เทคนิค จำกัด <br />จะย้ายที่ทำการจาก อ่อนนุช ซอย 44 ไปที่ กิ่งแก้ว ซอย 25/1 ตำบลราชาเทวะ อำเภอบางพลี  จังหวัดสมุทรปราการ<br />โดยจะทำการปิดรับงานที่อ่อนนุช  ตั้งแต่วันที่ 24 ธันวาคม 2557 <br />และจะเปิดทำการหลังปีใหม่ ที่กิ่งแก้ว  ในวันที่ 5 มกราคม 2558  <br />โดยสามารถติดต่อได้ที่เบอร์ 02-136-1770-3   <br />ขอบคุณครับ
-</p>
-</div>
-</div>
-<script type="text/javascript" src="../js/float323.js"></script> 
-          
+         
           
 <table width="950" border="0" cellspacing="0" cellpadding="0" align="center">
   <tr>
