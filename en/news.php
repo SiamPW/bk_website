@@ -31,6 +31,14 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
+    <td><hr style="color:#eee;" /><p><img src="../images/product/cnc_b/Intermach2015Bitec.jpg" width="300" class="img2" style="margin-bottom:10px;" /></p>
+<h3 style="color:#b70e43;">INTERMACH 2015<br />
+</h3>
+<p style="color:#b70e43;">Date : 13-16/MAY 2015</p>
+    </td>
+  </tr>
+
+  <tr>
     <td><hr style="color:#eee;" /><p><img src="../images/product/cnc_b/news_2.jpg" width="300" class="img2" style="margin-bottom:10px;" /></p>
 <h3 style="color:#b70e43;">INTERMACH 2014<br />
 </h3>

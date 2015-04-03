@@ -1,11 +1,11 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta name="keywords" content="laser pw, pw laser, pw, Laser cutting machine, for nonmetal use, Laser engraver machine, for nonmetal use, Laser marking machine, nonmetal、metal, Cutting service for all nonmetal material, Engraver service for all nonmetal material, Marking service for all kind of material, Provide spare parts from Taiwan and China, Prompt in after sales service, Laser projectors, Acrylic products process tools" />
+<meta name="keywords" content="laser pw, pw laser, pw, Laser cutting machine, for nonmetal use, Laser engraver machine, for nonmetal use, Laser marking machine, nonmetal、metal, Cutting service for all nonmetal material, Engraver service for all nonmetal material, Marking service for all kind of material, Provide spare parts from Taiwan and China, Prompt in after sales service, Laser projectors, Acrylic products process tools, CNC manchines, CNC" />
 <meta name="description" content="We are the distributor of laser machine from Taiwan manufacturer. Expertise and experiences of maintaining, supporting and serving laser machineries for more than five years, give our customers the most reliable commitments confidence and guarantee."/>
 <meta name="robots" content="all,follow" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>PW laser : distributor of laser machine from Taiwan manufacturer</title>
+<title>Siam P&W: distributor of laser cutters and CNC machines.</title>
 <link href="../css.css" rel="stylesheet" type="text/css" />
 </head>
 
@@ -51,7 +51,7 @@ The same machine with a variety of options. Working area : 1250x2500 mm (SC) and
 
 <div class="blog">
   <p class="head1"><span class="col_R15">News</span></p>
-  <a href="news.php" class="box"><a href="news.php" class="box"><a href="news.php" class="box"><a href="news.php" class="box"><img src="../images/product/cnc_b/news_2.jpg" width="214" border="0" class="img1" /></a>
+  <a href="news.php" class="box"><a href="news.php" class="box"><a href="news.php" class="box"><a href="news.php" class="box"><img src="../images/product/cnc_b/Intermach2015Bitec.jpg" width="214" border="0" class="img1" /></a>
   </p>
   </div>
 
