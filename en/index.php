@@ -22,7 +22,7 @@
 	<?include("../include/mainmenu.php")?>	</td>
   </tr>
   <tr>
-    <td style="padding:5px 0px;"><div style="position:relative;"><div style="position:absolute; z-index:9; left:30px; top:10px;"><img src="../images/EZ-BENDER-C.png" /></div>
+    <td style="padding:5px 0px;"><div style="position:relative;"><div style="position:absolute; z-index:9; left:30px; top:10px;"><img src="../images/M3015B-5.png" /></div>
 	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="950" height="340" wmode="transparent">
       <param name="movie" value="../images/head.swf" />
       <param name="quality" value="high" />
