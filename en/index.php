@@ -45,7 +45,7 @@
 ?>
 
 <div class="blog"><p class="head1"><span class="col_R15">PWCF-M3015B</span></p>
-<a href="fiber.php" class="box"><img src="../images/product/fiber/M3015B-5.jpg" width="200" border="0" class="img1" /></a></div>
+<a href="FIBER.php" class="box"><img src="../images/product/fiber/M3015B-5.jpg" width="200" border="0" class="img1" /></a></div>
 
 <div class="blog">
   <p class="head1"><span class="col_R15">News</span></p>
