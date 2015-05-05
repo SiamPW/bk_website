@@ -3,6 +3,7 @@
 
 <a class="p-list">Laser Cutting /Engraver System</a>
 
+<a href="FIBER.php" class="c">METAL Series</a><br />
 <a href="NON-METAL-Series.php" class="c">NON-METAL Series</a><br />
 <a href="Label-Embroidery.php" class="c">Label-Embroidery-Garment</a>
 

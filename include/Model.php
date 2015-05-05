@@ -11,7 +11,17 @@
 
 <div class="glidecontentwrapper" id="canadaprovinces">
 
-		<div class="glidecontent">&bull; <a href="letterpress-letters.php?p=EZ-BENDER-C">EZ BENDER C</a> &nbsp; &bull; <a href="letterpress-letters.php?p=Slotting">Automatic Slotting Machine</a> &nbsp; &bull; <a href="letterpress-letters.php?p=WELDER">LASER WELDER MACHINE</a>
+        <div class="glidecontent">&bull;
+            <a href="p_fiber-series.php?p=PWFC-G3015A">PWFC-G3015A</a> &nbsp; &bull;
+            <a href="p_fiber-series.php?p=PWFC-G3015B">PWFC-G3015B</a> &nbsp; &bull;
+            <a href="p_fiber-series.php?p=PWFC-G3015C">PWFC-G3015C</a> &nbsp; &bull;
+            <a href="p_fiber-series.php?p=PWFC-M3015A">PWFC-M3015A</a> &nbsp; &bull;
+            <a href="p_fiber-series.php?p=PWFC-M3015B">PWFC-M3015B</a> &nbsp; &bull;
+            <a href="p_fiber-series.php?p=PWFC-M3015C">PWFC-M3015C</a> &nbsp; &bull;
+            <a href="p_fiber-series.php?p=PWFC-F2513C">PWFC-F2513C</a>
+        </div>
+
+        <div class="glidecontent">&bull; <a href="letterpress-letters.php?p=EZ-BENDER-C">EZ BENDER C</a> &nbsp; &bull; <a href="letterpress-letters.php?p=Slotting">Automatic Slotting Machine</a> &nbsp; &bull; <a href="letterpress-letters.php?p=WELDER">LASER WELDER MACHINE</a>
         </div>
 
 		<div class="glidecontent">&bull; <a href="p_non-metal-series.php?p=PWL-2513">PWL-2513</a> &nbsp; &bull; <a href="p_non-metal-series.php?p=PWL-7050">PWL-7050</a> &nbsp; &bull; <a href="p_non-metal-series.php?p=PWL-9060">PWL-9060</a> &nbsp; &bull; <a href="p_non-metal-series.php?p=PWL-14090">PWL-14090</a> &nbsp; &bull; <a href="p_non-metal-series.php?p=PWLT-13090">PWLT-13090</a> &nbsp; &bull; <a href="p_non-metal-series.php?p=ilaser">iLaser</a> &nbsp; &bull; <a href="p_non-metal-series.php?p=ils3_nm">ILS-3NM</a> &nbsp; &bull; <a href="p_non-metal-series.php?p=PWL-16090">PWL-16090</a>

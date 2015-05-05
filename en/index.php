@@ -5,7 +5,7 @@
 <meta name="description" content="We are the distributor of laser machine from Taiwan manufacturer. Expertise and experiences of maintaining, supporting and serving laser machineries for more than five years, give our customers the most reliable commitments confidence and guarantee."/>
 <meta name="robots" content="all,follow" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Siam P&W: distributor of laser cutters and CNC machines.</title>
+<title>Siam P&W: distributor of Laser Cutter, Engraver and CNC Router</title>
 <link href="../css.css" rel="stylesheet" type="text/css" />
 </head>
 
@@ -44,10 +44,8 @@
 </div>*/
 ?>
 
-<div class="blog"><p class="head1"><span class="col_R15">SC/SD</span></p>
-<a href="p_non-metal-series.php?p=sc_sd" class="box"><img src="../images/product/sc_sd_small.jpg" width="70" border="0" class="img1" /><strong>Laser Cutting Machine : SC/SD</strong><br />
-<br />
-The same machine with a variety of options. Working area : 1250x2500 mm (SC) and 1500x3000 mm (SD)</a></div>
+<div class="blog"><p class="head1"><span class="col_R15">PWCF-M3015B</span></p>
+<a href="fiber.php" class="box"><img src="../images/product/fiber/M3015B-5.jpg" width="200" border="0" class="img1" /></a></div>
 
 <div class="blog">
   <p class="head1"><span class="col_R15">News</span></p>
