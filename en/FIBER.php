@@ -4,7 +4,7 @@
 <meta name="keywords" content="fiber laser, metal cutting" />
 <meta name="robots" content="all,follow" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>PW laser : distributor of laser machine from Taiwan manufacturer</title>
+<title>Fiber Laser | Siam P&amp;W Technic</title>
 <link href="../css.css" rel="stylesheet" type="text/css" />
 <script src="../js/change_img.js" type="text/javascript"></script>
 <style type="text/css">
@@ -38,40 +38,40 @@
 <table width="650" border="0">
       <tr>
         <td><div align="center"><a href="../en/p_fiber-series.php?p=PWFC-G3015A"><img src="../images/product/fiber/G3015A4.jpg" width="170"/></a></div></td>
-        <td><div align="center"><img src="../images/product/fiber/G3015B-4.jpg" width="170" border="0"/></div></td>
-        <td><div align="center"><img src="../images/product/fiber/HS-G3015C.jpg" width="170" border="0"/></div></td>
+        <td><div align="center"><a href="../en/p_fiber-series.php?p=PWFC-G3015B"><img src="../images/product/fiber/G3015B-4.jpg" width="170" border="0" /></a></div></td>
+        <td><div align="center"><a href="../en/p_fiber-series.php?p=PWFC-G3015C"><img src="../images/product/fiber/HS-G3015C.jpg" width="170" border="0" /></a></div></td>
       </tr>
       <tr>
-        <td><div align="center">PWFC-G3015A</div></td>
-        <td><div align="center">PWFC-G3015B</div></td>
-        <td><div align="center">PWFC-G3015C</div></td>
-      </tr>
-      <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <tr>
-        <td><div align="center"><img src="../images/product/fiber/M3015A-2.jpg" width="170" border="0"/></div></td>
-        <td><div align="center"><img src="../images/product/fiber/M3015B-5.jpg" width="170" border="0"/></div></td>
-        <td><div align="center"><img src="../images/product/fiber/M3015C-4.jpg" width="170" border="0"/></div></td>
-      </tr>
-      <tr>
-        <td><div align="center">PWFC-M3015A</div></td>
-        <td><div align="center">PWFC-M3015B</div></td>
-        <td><div align="center">PWFC-M3015C</div></td>
+        <td><div align="center"><a href="../en/p_fiber-series.php?p=PWFC-G3015A">PWFC-G3015A</a></div></td>
+        <td><div align="center"><a href="../en/p_fiber-series.php?p=PWFC-G3015B">PWFC-G3015B</a></div></td>
+        <td><div align="center"><a href="../en/p_fiber-series.php?p=PWFC-G3015C">PWFC-G3015C</a></div></td>
       </tr>
       <tr>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <tr>
-        <td><div align="center"><img src="../images/product/fiber/F2513A-2.jpg" width="170" border="0"/></div></td>
-        <td><div align="center"><img src="../images/product/fiber/F2513C-3.jpg" width="170" border="0"/></div></td>
+        <td><div align="center"><a href="../en/p_fiber-series.php?p=PWFC-M3015A"><img src="../images/product/fiber/M3015A-2.jpg" width="170"/></a></div></td>
+        <td><div align="center"><a href="../en/p_fiber-series.php?p=PWFC-M3015B"><img src="../images/product/fiber/M3015B-5.jpg" width="170" border="0" /></a></div></td>
+        <td><div align="center"><a href="../en/p_fiber-series.php?p=PWFC-M3015C"><img src="../images/product/fiber/M3015C-4.jpg" width="170" border="0" /></a></div></td>
+      </tr>
+      <tr>
+        <td><div align="center"><a href="../en/p_fiber-series.php?p=PWFC-M3015A">PWFC-M3015A</a></div></td>
+        <td><div align="center"><a href="../en/p_fiber-series.php?p=PWFC-M3015B">PWFC-M3015B</a></div></td>
+        <td><div align="center"><a href="../en/p_fiber-series.php?p=PWFC-M3015C">PWFC-M3015C</a></div></td>
+      </tr>
+      <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <tr>
+        <td><div align="center"><a href="../en/p_fiber-series.php?p=PWFC-F2513C"><img src="../images/product/fiber/F2513C-3.jpg" width="170" border="0" /></a></div></td>
+        <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
-        <td><div align="center">PWFC-F2513A</div></td>
-        <td><div align="center">PWFC-F2513C</div></td>
+        <td><div align="center"><a href="../en/p_fiber-series.php?p=PWFC-F2513C">PWFC-F2513C</a></div></td>
+        <td>&nbsp;</td>
         <td>&nbsp;</td>
       </tr>
       <tr>
